@@ -2076,6 +2076,7 @@ Notices for file(s):
 /framework/jarjar-maven-plugin-api.jar
 /framework/jarjar.jar
 /framework/jsilver.jar
+/framework/objenesis-host.jar
 /lib64/libhidl-gen-ast.dylib
 /lib64/libhidl-gen.dylib
 ------------------------------------------------------------
