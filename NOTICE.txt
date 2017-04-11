@@ -1543,6 +1543,7 @@ Notices for file(s):
 /framework/objenesis-host.jar
 /lib64/libhidl-gen-ast.dylib
 /lib64/libhidl-gen.dylib
+/lib64/libvintf.dylib
 ------------------------------------------------------------
 
                                  Apache License
