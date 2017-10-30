@@ -1333,6 +1333,7 @@ Notices for file(s):
 /framework/guavalib.jar
 /framework/jarjar.jar
 /framework/jsilver.jar
+/framework/objenesis-host.jar
 /lib64/libhidl-gen-hash.dylib
 /lib64/libvintf.dylib
 ------------------------------------------------------------
