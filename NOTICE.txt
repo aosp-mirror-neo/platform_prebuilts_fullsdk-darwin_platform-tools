@@ -10458,6 +10458,7 @@ Notices for file(s):
 /bin/property_info_checker
 /bin/signapk
 /bin/simg2img
+/bin/tzdatacheck
 /bin/unpack_bootimg
 /bin/zipalign
 /framework/BugReport.jar
@@ -11127,7 +11128,6 @@ freely, subject to the following restrictions:
 Notices for file(s):
 /lib64/libgtest.a
 /lib64/libgtest_host.a
-/lib64/libgtest_prod.a
 ------------------------------------------------------------
 Copyright 2008, Google Inc.
 All rights reserved.
